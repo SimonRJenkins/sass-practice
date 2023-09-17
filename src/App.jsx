@@ -1,3 +1,4 @@
+import MainPage from './components/MainPage'
 import Navbar from './components/Navbar'
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <div className="App">
         <Navbar />
+        <MainPage />
       </div>
     </>
 

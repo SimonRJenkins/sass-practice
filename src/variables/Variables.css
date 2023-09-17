@@ -1,1 +1,9 @@
-/*# sourceMappingURL=Variables.css.map */
+button {
+  width: 200px;
+  height: 40px;
+  background-color: purple;
+  border: none;
+  border-radius: 8px;
+  color: rgb(232, 232, 232);
+  font-size: 25px;
+}/*# sourceMappingURL=Variables.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sources":["Button.scss","../variables/Variables.scss","MainPage.css","MainPage.scss"],"names":[],"mappings":"AAYA;EATI,YAAA;EACA,YAAA;EACA,wBAQqB;EAPrB,YAAA;EACA,kBAAA;EACA,yBCNS;EDOT,eAI6B;AELjC;;ACLA;EACI,aAAA;EACA,uBAAA;EACA,mBAAA;ADQJ;ACNI;EACI,qBFNG;ACcX;ACLI;EHTA,YAAA;EACA,YAAA;EACA,gCCFO;EDGP,YAAA;EACA,kBAAA;EACA,yBCNS;EDOT,eGIoC;ADaxC","file":"MainPage.css"}
