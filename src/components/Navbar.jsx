@@ -4,6 +4,7 @@ import '../styles/Navbar.css'
 function Navbar() {
     return (
         <div class="navbar">
+            <h1 class="title">Sass Practice</h1>
             <div className="links">
                 <a href="/home">Home</a>
                 <a href="/about">About</a>
